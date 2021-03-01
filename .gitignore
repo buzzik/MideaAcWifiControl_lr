@@ -353,3 +353,5 @@ MigrationBackup/
 .pio/
 .src/Credentials.h
 Credentials.h
+./src/Credentials.h
+src/Credentials.h
