@@ -1,7 +1,3 @@
 .vscode/
 .pio/
-.src/credentials.h
-Credentials.h
-./src/credentials.h
-src/credentials.h
-/src/credentials.h
+/src/Credentials.h
